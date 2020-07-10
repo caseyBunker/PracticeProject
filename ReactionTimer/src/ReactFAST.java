@@ -1,3 +1,4 @@
+// Reviewed by @professorgordon
 import java.util.Scanner;
 
 public class ReactFAST {
